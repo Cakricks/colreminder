@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../res/values/strings.xml8( name="reminder_text")
 msgid "notes"
-msgstr "Erinnerungstext"
+msgstr "Erinnerungstext Test"
 
 #: ../res/values/strings.xml9( name="remind_date")
 msgid ".. or set date/time:"
