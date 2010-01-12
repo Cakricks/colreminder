@@ -24,7 +24,7 @@ msgstr "Erinnerungstext Test"
 
 #: ../res/values/strings.xml9( name="remind_date")
 msgid ".. or set date/time:"
-msgstr ""
+msgstr "test"
 
 #: ../res/values/strings.xml10( name="parking_time_settings")
 msgid "Parking Time Settings"
