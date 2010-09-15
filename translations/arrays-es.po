@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2010-01-10 21:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ricardo A. Hermosilla Carrillo <ra.hermosillac@gmail.com>\n"
+"Language-Team: SPANISH <ES@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../res/values/arrays.xml:4(item)
+msgid "Miscellaneous"
+msgstr "Misceláneo"
+
+#: ../res/values/arrays.xml:5(item)
+msgid "Parking Time"
+msgstr "Tiempo de Estacionamiento"
+
+#: ../res/values/arrays.xml:6(item)
+msgid "Telephone Call"
+msgstr "Llamada Telefónica"
+
+#: ../res/values/arrays.xml:10(item)
+msgid "Active Alarms"
+msgstr "Alarmas activas"
+
+#: ../res/values/arrays.xml:11(item)
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../res/values/arrays.xml:12(item)
+msgid "Exit"
+msgstr "Salir"
+
+#: ../res/values/arrays.xml:15(item)
+msgid "System"
+msgstr "Sistema"
+
+#: ../res/values/arrays.xml:15(item)
+msgid "German"
+msgstr "Alemán"
+
+#: ../res/values/arrays.xml:16(item)
+msgid "English"
+msgstr "Inglés"
+
+#: ../res/values/arrays.xml:17(item)
+msgid "Italian"
+msgstr "Italiano"
+
+#: ../res/values/arrays.xml:18(item)
+msgid "French"
+msgstr "Francés"
+
+#: ../res/values/arrays.xml:19(item)
+msgid "Chinese"
+msgstr "Chino"
+
+#: ../res/values/arrays.xml:23(item) ../res/values/arrays.xml:51(item)
+msgid "5 minutes"
+msgstr "5 minutos"
+
+#: ../res/values/arrays.xml:24(item) ../res/values/arrays.xml:52(item)
+msgid "10 minutes"
+msgstr "10 minutos"
+
+#: ../res/values/arrays.xml:25(item) ../res/values/arrays.xml:53(item)
+msgid "15 minutes"
+msgstr "15 minutos"
+
+#: ../res/values/arrays.xml:26(item)
+msgid "20 minutes"
+msgstr "20 minutos"
+
+#: ../res/values/arrays.xml:27(item)
+msgid "25 minutes"
+msgstr "25 minutos"
+
+#: ../res/values/arrays.xml:28(item) ../res/values/arrays.xml:54(item)
+msgid "30 minutes"
+msgstr "30 minutos"
+
+#: ../res/values/arrays.xml:29(item)
+msgid "45 minutes"
+msgstr "45 minutos"
+
+#: ../res/values/arrays.xml:30(item)
+msgid "60 minutes"
+msgstr "60 minutos"
+
+#: ../res/values/arrays.xml:34(item)
+msgid "One time"
+msgstr "Un vez"
+
+#: ../res/values/arrays.xml:35(item)
+msgid "Two times"
+msgstr "Dos veces"
+
+#: ../res/values/arrays.xml:36(item)
+msgid "Three times"
+msgstr "Tres veces"
+
+#: ../res/values/arrays.xml:37(item)
+msgid "Four times"
+msgstr "Cuatro veces"
+
+#: ../res/values/arrays.xml:38(item)
+msgid "Five times"
+msgstr "Cinco veces"
+
+#: ../res/values/arrays.xml:39(item)
+msgid "Ten times"
+msgstr "Diez veces"
+
+#: ../res/values/arrays.xml:40(item)
+msgid "Keep repeating"
+msgstr "Mantener repitiendo"
+
+#: ../res/values/arrays.xml:44(item)
+msgid "Edit"
+msgstr "Editar"
+
+#: ../res/values/arrays.xml:45(item)
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../res/values/arrays.xml:49(item)
+msgid "1 minute"
+msgstr "1 minuto"
+
+#: ../res/values/arrays.xml:50(item)
+msgid "2 minutes"
+msgstr "2 minutos"
+
+#: ../res/values/arrays.xml:55(item)
+msgid "1 hour"
+msgstr "1 hora"
+
