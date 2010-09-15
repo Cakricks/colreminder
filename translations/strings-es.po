@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2010-01-10 21:21+0100\n"
+"PO-Revision-Date: 2010-09-15 00:01-0400\n"
+"Last-Translator: Ricardo A. Hermosilla Carrillo <ra.hermosillac@gmail.com>\n"
+"Language-Team: SPANISH <ES@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../res/values/strings.xml:5( name="app_name") ../res/values/strings.xml:6( name="header")
+msgid "COL Reminder"
+msgstr "COL Reminder"
+
+#: ../res/values/strings.xml:8( name="reminder_text")
+msgid "notes"
+msgstr "notas"
+
+#: ../res/values/strings.xml:9( name="remind_date")
+msgid ".. or set date/time:"
+msgstr ".. o configure fecha/tiempo:"
+
+#: ../res/values/strings.xml:10( name="parking_time_settings")
+msgid "Parking Time Settings"
+msgstr "Configurar Tiempo de Estacionamiento"
+
+#: ../res/values/strings.xml:11( name="notification_tone")
+msgid "Notification Ringtone"
+msgstr "Melodía de notificación"
+
+#: ../res/values/strings.xml:12( name="reminder_hint_text")
+msgid "Remind Notes"
+msgstr "Notas para recordar"
+
+#: ../res/values/strings.xml:13( name="remind_in_text")
+msgid "Remind in..."
+msgstr "Recordar en..."
+
+#: ../res/values/strings.xml:14( name="reminder")
+msgid "Reminder"
+msgstr "Recordatorio"
+
+#: ../res/values/strings.xml:15( name="about")
+msgid "About"
+msgstr "Acerca de"
+
+#: ../res/values/strings.xml:16( name="exit")
+msgid "Exit"
+msgstr "Salir"
+
+#: ../res/values/strings.xml:17( name="alarm_added")
+msgid "Alarm goes off at"
+msgstr "La alarma se apaga a las"
+
+#: ../res/values/strings.xml:18( name="snooze")
+msgid "Snooze"
+msgstr "Siestecita"
+
+#: ../res/values/strings.xml:19( name="select_date")
+msgid "Select date"
+msgstr "Seleccione una fecha"
+
+#: ../res/values/strings.xml:20( name="select_time")
+msgid "Select time"
+msgstr "Seleccionar una hora"
+
+#: ../res/values/strings.xml:21( name="parking_duration") ../res/values/strings.xml:22( name="parking_time")
+msgid "Parking Time"
+msgstr "Tiempo de Estacionamiento"
+
+#: ../res/values/strings.xml:23( name="summary_notificationtone_picker")
+msgid "Select a Notification Ringtone"
+msgstr "Seleccione una Melodía de Notificación"
+
+#: ../res/values/strings.xml:24( name="parking_duration_over")
+msgid "Parking time is over!"
+msgstr "El tiempo de Estacionamiento se ha acabado!"
+
+#: ../res/values/strings.xml:25( name="please_select")
+msgid "Please select:"
+msgstr "Por favor seleccione:"
+
+#: ../res/values/strings.xml:26( name="summary_snooze_preference")
+msgid "Snooze duration in minutes"
+msgstr "Duración de la Siestecita en minutos"
+
+#: ../res/values/strings.xml:27( name="settings")
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../res/values/strings.xml:28( name="cancel")
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../res/values/strings.xml:29( name="summary_parking_duration_preference")
+msgid "Enter parking time in minutes for dropdown selection"
+msgstr "Ingrese el Tiempo de Estacionamiento en minutor para la selección desplegable"
+
+#: ../res/values/strings.xml:30( name="options")
+msgid "Options"
+msgstr "Opciones"
+
+#: ../res/values/strings.xml:31( name="reminders")
+msgid "Reminders"
+msgstr "Recordatorios"
+
+#: ../res/values/strings.xml:32( name="error_wrong_value_snooze")
+msgid "ERROR: Snooze must be numeric!"
+msgstr "ERROR: La Siestecita debe ser numérica!"
+
+#: ../res/values/strings.xml:33( name="this_reminder_will_be_deleted")
+msgid "This reminder will be deleted."
+msgstr "Este recordatorio será borrado."
+
+#: ../res/values/strings.xml:34( name="error_wrong_value_parking_duration")
+msgid "ERROR: Wrong data at Parking Time! Only numeric data and commas are valid!"
+msgstr "ERROR: Datos erróneos en el Tiempo de Estacionamiento! Sólo los números y comas son válidos!"
+
+#: ../res/values/strings.xml:35( name="no_reminders")
+msgid "No active reminders!"
+msgstr "No hay recordatorios activos!"
+
+#: ../res/values/strings.xml:36( name="donate")
+msgid "Donate"
+msgstr "Donar"
+
+#: ../res/values/strings.xml:37( name="remind")
+msgid "Remind me"
+msgstr "Recordarme"
+
+#: ../res/values/strings.xml:38( name="enter_number")
+msgid "Enter\\nNumber"
+msgstr "Ingrese\\nNúmero"
+
+#: ../res/values/strings.xml:39( name="select_contact")
+msgid "Select\\nContact"
+msgstr "Seleccione\\nContacto"
+
+#: ../res/values/strings.xml:40( name="minutes")
+msgid "minutes"
+msgstr "minutos"
+
+#: ../res/values/strings.xml:41( name="support_questions")
+msgid "Support, Question or Problems:"
+msgstr "Soporte, Preguntas o Problemas:"
+
+#: ../res/values/strings.xml:42( name="notification_volume")
+msgid "Notification Volume"
+msgstr "Volumen de Notificación"
+
+#: ../res/values/strings.xml:43( name="ok")
+msgid "OK"
+msgstr "OK"
+
+#: ../res/values/strings.xml:44( name="summary_override_volume")
+msgid "Use system volume for notifications"
+msgstr "Usar el volumen del Sistema para las Notificaciones"
+
+#: ../res/values/strings.xml:45( name="summary_notification_volume")
+msgid "Set the volume of the notification"
+msgstr "Configurar el volumen de las notificaciones"
+
+#: ../res/values/strings.xml:46( name="override_volume")
+msgid "System volume"
+msgstr "Volumen del Sistema"
+
+#: ../res/values/strings.xml:47( name="reminder_deleted")
+msgid "Reminder deleted!"
+msgstr "Recordatorio borrado!"
+
+#: ../res/values/strings.xml:48( name="call")
+msgid "Call"
+msgstr "Llamar"
+
+#: ../res/values/strings.xml:50( name="info_no_date_time_setting")
+msgid "Attention: You have never set the date and time format in the phone system settings!"
+msgstr "Atención: Usted nunca configuró el formato de la fecha y la hora en las configuraciones del teléfono!"
+
+#: ../res/values/strings.xml:52( name="notification_settings")
+msgid "Notification Settings"
+msgstr "Configuración de Notificaciones"
+
+#: ../res/values/strings.xml:53( name="summary_notification_settings")
+msgid "Settings for the notification"
+msgstr "Configuraciones para las notificaciones"
+
+#: ../res/values/strings.xml:54( name="notification_reminder")
+msgid "Enable Reminder"
+msgstr "Activar recordatorio"
+
+#: ../res/values/strings.xml:55( name="summary_notification_reminder")
+msgid "Unread notification reminder"
+msgstr "Recordatorio de la Notificación sin leer"
+
+#: ../res/values/strings.xml:56( name="number_reminders")
+msgid "Number of Reminders"
+msgstr "Número de recordatorios"
+
+#: ../res/values/strings.xml:57( name="summary_number_reminders")
+msgid "The number of reminder notifications to play"
+msgstr "Número de notificaciones de recordatorios para reproducir"
+
+#: ../res/values/strings.xml:58( name="reminder_interval")
+msgid "Reminder Interval"
+msgstr "Intervalo de Recordatorio"
+
+#: ../res/values/strings.xml:59( name="summary_reminder_interval")
+msgid "The time period between notification reminders"
+msgstr "Tiempo entre los Recordatorios de Notificaciones"
+
+#: ../res/values/strings.xml:60( name="reminder_settings")
+msgid "Reminder Settings"
+msgstr "Configuración de Recordatorios"
+
+#: ../res/values/strings.xml:61( name="summary_reminder_settings")
+msgid "Reminder for Notification Settings"
+msgstr "Recordatorio para la Configuración de Notificación"
+
+#: ../res/values/strings.xml:62( name="edit")
+msgid "Edit"
+msgstr "Editar"
+
+#: ../res/values/strings.xml:63( name="delete")
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../res/values/strings.xml:64( name="save")
+msgid "Save"
+msgstr "Guardar"
+
+#: ../res/values/strings.xml:65( name="no_edit_parking")
+msgid "Type Parking Time could not be edited!"
+msgstr "Tiempo de Estacionamiento no pudo ser editado!"
+
+#: ../res/values/strings.xml:66( name="snooze_picker")
+msgid "Show Snooze Picker"
+msgstr "Mostrar el Selector de Siestecita"
+
+#: ../res/values/strings.xml:67( name="summary_snooze_picker")
+msgid "Shows a dialog to choose a custom snooze time"
+msgstr "Muestra un diálogo para escoger el tiempo de siestecita personalizado"
+
+#: ../res/values/strings.xml:68( name="snooze_settings")
+msgid "Snooze Settings"
+msgstr "Configuración de la Siestecita"
+
+#: ../res/values/strings.xml:69( name="whats_new_text")
+msgid "Whats new"
+msgstr "Qué hay de nuevo"
+
+#: ../res/values/strings.xml:71( name="dismiss")
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: ../res/values/strings.xml:72( name="home")
+msgid "Home"
+msgstr "Inicio"
+
+#: ../res/values/strings.xml:73( name="mobile")
+msgid "Mobile"
+msgstr "Móvil"
+
+#: ../res/values/strings.xml:74( name="work")
+msgid "Work"
+msgstr "Trabajo"
+
+#: ../res/values/strings.xml:75( name="other")
+msgid "Other"
+msgstr "Otro"
+
+#: ../res/values/strings.xml:76( name="select_phone_number")
+msgid "Select a phone number"
+msgstr "Seleccione un número de teléfono"
+
+#: ../res/values/strings.xml:77( name="call_log")
+msgid "Last Calls"
+msgstr "Últimas llamadas"
+
+#: ../res/values/strings.xml:78( name="call_log_2")
+msgid "Last\\nCalls"
+msgstr "Últimas\\nLlamadas"
+
+#: ../res/values/strings.xml:79( name="unknown")
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: ../res/values/strings.xml:80( name="active_alarms")
+msgid "Active Alarms"
+msgstr "Alarmas Activas"
+
+#: ../res/values/strings.xml:81( name="add_phone_reminder")
+msgid "Add a telephone call reminder"
+msgstr "Agregar un Recordatoro de Llamada telefónica"
+
+#: ../res/values/strings.xml:82( name="phone_reminder")
+msgid "Telephone Call Reminder"
+msgstr "Recordatorio de Llamada telefónica"
+
+#: ../res/values/strings.xml:83( name="telephone_call_settings")
+msgid "Telephone Call Settings"
+msgstr "Configuración de Llamadas Telefónicas"
+
+#: ../res/values/strings.xml:84( name="summary_add_phone_reminder")
+msgid "After call you can quick set a telephone call reminder (Notification after call)"
+msgstr "Despues de llamar usted puede configurar un recordatorio de llamada telefónica (notificación después de llamar)"
+
+#: ../res/values/strings.xml:85( name="call_log_entries")
+msgid "Last Calls Entries"
+msgstr "Últimas llamadas"
+
+#: ../res/values/strings.xml:86( name="summary_call_log_entries")
+msgid "Number of entries on last calls"
+msgstr "Número de entradas en últimas llamadas"
+
+#: ../res/values/strings.xml:87( name="error_wrong_value_call_log_entries")
+msgid "ERROR: Only numbers allowed and/or max. of 30!"
+msgstr "ERROR: Sólo números están permitidos y/o el máximo es 30!"
+
+#: ../res/values/strings.xml:88( name="error_no_entry")
+msgid "ERROR: Field can not be empty!"
+msgstr "ERROR: El campo no puede estar vacío!"
+
+#: ../res/values/strings.xml:89( name="error_already_saved")
+msgid "ERROR: Value already present!"
+msgstr "ERROR: Valor ya presente!"
+
+#: ../res/values/strings.xml:90( name="parking_countdown")
+msgid "Parking Time CountDown"
+msgstr "Cuenta Regresiva de Tiempo de Estacionamiento"
+
+#: ../res/values/strings.xml:91( name="summary_parking_countdown")
+msgid "Display a CountDown in the notification bar"
+msgstr "Mostrar Cuenta Regresiva en la barra de notificaciones"
+
+#: ../res/values/strings.xml:92( name="donate_link")
+msgid "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=KFJDJY28HWFVE&amp;lc=US&amp;item_name=COL%20Reminder&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+msgstr "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=KFJDJY28HWFVE&amp;lc=US&amp;item_name=COL%20Reminder&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+
