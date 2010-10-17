@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2010-01-10 21:21+0100\n"
+"PO-Revision-Date: 2010-10-17 20:49+0100\n"
+"Last-Translator: el_libre - - www.catmidia.cat <el.libre@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../res/values/strings.xml:5(
+#: name="app_name") ../res/values/strings.xml:6(
+#: name="header")
+msgid "COL Reminder"
+msgstr "COL Reminder"
+
+#: ../res/values/strings.xml:8(
+#: name="reminder_text")
+msgid "notes"
+msgstr "notes"
+
+#: ../res/values/strings.xml:9(
+#: name="remind_date")
+msgid ".. or set date/time:"
+msgstr ".. o estableix la data i hora:"
+
+#: ../res/values/strings.xml:10(
+#: name="parking_time_settings")
+msgid "Parking Time Settings"
+msgstr "Configuració - Temps d'aparcament"
+
+#: ../res/values/strings.xml:11(
+#: name="notification_tone")
+msgid "Notification Ringtone"
+msgstr "To de Notificació"
+
+#: ../res/values/strings.xml:12(
+#: name="reminder_hint_text")
+msgid "Remind Notes"
+msgstr "Notes de Recordatori"
+
+#: ../res/values/strings.xml:13(
+#: name="remind_in_text")
+msgid "Remind in..."
+msgstr "Recorda en..."
+
+#: ../res/values/strings.xml:14(
+#: name="reminder")
+msgid "Reminder"
+msgstr "Recordatori"
+
+#: ../res/values/strings.xml:15(
+#: name="about")
+msgid "About"
+msgstr "Quant a"
+
+#: ../res/values/strings.xml:16(
+#: name="exit")
+msgid "Exit"
+msgstr "Surt"
+
+#: ../res/values/strings.xml:17(
+#: name="alarm_added")
+msgid "Alarm goes off at"
+msgstr "L'alarma s'apaga a"
+
+#: ../res/values/strings.xml:18(
+#: name="snooze")
+msgid "Snooze"
+msgstr "Despertador"
+
+#: ../res/values/strings.xml:19(
+#: name="select_date")
+msgid "Select date"
+msgstr "Selecciona la data"
+
+#: ../res/values/strings.xml:20(
+#: name="select_time")
+msgid "Select time"
+msgstr "Selecciona l'hora"
+
+#: ../res/values/strings.xml:21(
+#: name="parking_duration") ../res/values/strings.xml:22(
+#: name="parking_time")
+msgid "Parking Time"
+msgstr "Temps d'aparcament"
+
+#: ../res/values/strings.xml:23(
+#: name="summary_notificationtone_picker")
+msgid "Select a Notification Ringtone"
+msgstr "Selecciona un to de notificació"
+
+#: ../res/values/strings.xml:24(
+#: name="parking_duration_over")
+msgid "Parking time is over!"
+msgstr "El Temps d'aparcament s'ha acabat!"
+
+#: ../res/values/strings.xml:25(
+#: name="please_select")
+msgid "Please select:"
+msgstr "Si us plau, selecciona:"
+
+#: ../res/values/strings.xml:26(
+#: name="summary_snooze_preference")
+msgid "Snooze duration in minutes"
+msgstr "Durada de la repetició de l'alarma en minuts"
+
+#: ../res/values/strings.xml:27(
+#: name="settings")
+msgid "Settings"
+msgstr "Configuració"
+
+#: ../res/values/strings.xml:28(
+#: name="cancel")
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: ../res/values/strings.xml:29(
+#: name="summary_parking_duration_preference")
+msgid "Enter parking time in minutes for dropdown selection"
+msgstr "Escriu el temps d'estacionament en minuts a la selecció desplegable"
+
+#: ../res/values/strings.xml:30(
+#: name="options")
+msgid "Options"
+msgstr "Opcions"
+
+#: ../res/values/strings.xml:31(
+#: name="reminders")
+msgid "Reminders"
+msgstr "Recordatoris"
+
+#: ../res/values/strings.xml:32(
+#: name="error_wrong_value_snooze")
+msgid "ERROR: Snooze must be numeric!"
+msgstr "ERROR: El temps de repetició d'alarma ha de ser numèric!"
+
+#: ../res/values/strings.xml:33(
+#: name="this_reminder_will_be_deleted")
+msgid "This reminder will be deleted."
+msgstr "Aquest recordatori s'eliminarà."
+
+#: ../res/values/strings.xml:34(
+#: name="error_wrong_value_parking_duration")
+msgid "ERROR: Wrong data at Parking Time! Only numeric data and commas are valid!"
+msgstr "ERROR:Dades errònies al Temps d'aparcament! Només les dades numèriques i les comes són vàlides!"
+
+#: ../res/values/strings.xml:35(
+#: name="no_reminders")
+msgid "No active reminders!"
+msgstr "No hi ha avisos actius!"
+
+#: ../res/values/strings.xml:36(
+#: name="donate")
+msgid "Donate"
+msgstr "Dóna"
+
+#: ../res/values/strings.xml:37(
+#: name="remind")
+msgid "Remind me"
+msgstr "Recorda'm"
+
+#: ../res/values/strings.xml:38(
+#: name="enter_number")
+msgid ""
+"Enter\\n"
+"Number"
+msgstr ""
+"Escriu\\n"
+"Nombre"
+
+#: ../res/values/strings.xml:39(
+#: name="select_contact")
+msgid ""
+"Select\\n"
+"Contact"
+msgstr ""
+"Selecciona\\n"
+"Contacte"
+
+#: ../res/values/strings.xml:40(
+#: name="minutes")
+msgid "minutes"
+msgstr "minuts"
+
+#: ../res/values/strings.xml:41(
+#: name="support_questions")
+msgid "Support, Question or Problems:"
+msgstr "Suport, preguntes o problemes:"
+
+#: ../res/values/strings.xml:42(
+#: name="notification_volume")
+msgid "Notification Volume"
+msgstr "Volum de Notificació"
+
+#: ../res/values/strings.xml:43(
+#: name="ok")
+msgid "OK"
+msgstr "D'acord"
+
+#: ../res/values/strings.xml:44(
+#: name="summary_override_volume")
+msgid "Use system volume for notifications"
+msgstr "Usa el volum del sistema per a les notificacions"
+
+#: ../res/values/strings.xml:45(
+#: name="summary_notification_volume")
+msgid "Set the volume of the notification"
+msgstr "Ajusta el volum de la notificació"
+
+#: ../res/values/strings.xml:46(
+#: name="override_volume")
+msgid "System volume"
+msgstr "Volum del sistema"
+
+#: ../res/values/strings.xml:47(
+#: name="reminder_deleted")
+msgid "Reminder deleted!"
+msgstr "Recordatori eliminat!"
+
+#: ../res/values/strings.xml:48(
+#: name="call")
+msgid "Call"
+msgstr "Truca"
+
+#: ../res/values/strings.xml:50(
+#: name="info_no_date_time_setting")
+msgid "Attention: You have never set the date and time format in the phone system settings!"
+msgstr "Atenció: No s'ha establert el format de data i hora a la configuració de sistema de telèfon!"
+
+#: ../res/values/strings.xml:52(
+#: name="notification_settings")
+msgid "Notification Settings"
+msgstr "Configuració de notificacions"
+
+#: ../res/values/strings.xml:53(
+#: name="summary_notification_settings")
+msgid "Settings for the notification"
+msgstr "Configuració de la notificació"
+
+#: ../res/values/strings.xml:54(
+#: name="notification_reminder")
+msgid "Enable Reminder"
+msgstr "Habilita Recordatori"
+
+#: ../res/values/strings.xml:55(
+#: name="summary_notification_reminder")
+msgid "Unread notification reminder"
+msgstr "Recordatori de notificació sense llegir"
+
+#: ../res/values/strings.xml:56(
+#: name="number_reminders")
+msgid "Number of Reminders"
+msgstr "Nombre de Recordatoris"
+
+#: ../res/values/strings.xml:57(
+#: name="summary_number_reminders")
+msgid "The number of reminder notifications to play"
+msgstr "El nombre de notificacions de recordatori per reproduir"
+
+#: ../res/values/strings.xml:58(
+#: name="reminder_interval")
+msgid "Reminder Interval"
+msgstr "Interval de Recordatori"
+
+#: ../res/values/strings.xml:59(
+#: name="summary_reminder_interval")
+msgid "The time period between notification reminders"
+msgstr "El període transcorregut entre la notificació de recordatoris"
+
+#: ../res/values/strings.xml:60(
+#: name="reminder_settings")
+msgid "Reminder Settings"
+msgstr "Configuració del Recordatori "
+
+#: ../res/values/strings.xml:61(
+#: name="summary_reminder_settings")
+msgid "Reminder for Notification Settings"
+msgstr "Recordatori per a la configuració de notificació"
+
+#: ../res/values/strings.xml:62(
+#: name="edit")
+msgid "Edit"
+msgstr "Edita"
+
+#: ../res/values/strings.xml:63(
+#: name="delete")
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: ../res/values/strings.xml:64(
+#: name="save")
+msgid "Save"
+msgstr "Desa"
+
+#: ../res/values/strings.xml:65(
+#: name="no_edit_parking")
+msgid "Type Parking Time could not be edited!"
+msgstr "El tipus de temps d'aparcament no ha pogut ser editat!"
+
+#: ../res/values/strings.xml:66(
+#: name="snooze_picker")
+msgid "Show Snooze Picker"
+msgstr "Mostra selector de repetició d'alarma"
+
+#: ../res/values/strings.xml:67(
+#: name="summary_snooze_picker")
+msgid "Shows a dialog to choose a custom snooze time"
+msgstr "Mostra un diàleg per escollir un temps de repetició personalitzat"
+
+#: ../res/values/strings.xml:68(
+#: name="snooze_settings")
+msgid "Snooze Settings"
+msgstr "Configuració de la Repetició d'alarma "
+
+#: ../res/values/strings.xml:69(
+#: name="whats_new_text")
+msgid "Whats new"
+msgstr "Què hi ha de nou"
+
+#: ../res/values/strings.xml:71(
+#: name="dismiss")
+msgid "Dismiss"
+msgstr "Para l'alarma"
+
+#: ../res/values/strings.xml:72(
+#: name="home")
+msgid "Home"
+msgstr "Inici"
+
+#: ../res/values/strings.xml:73(
+#: name="mobile")
+msgid "Mobile"
+msgstr "Mòbil"
+
+#: ../res/values/strings.xml:74(
+#: name="work")
+msgid "Work"
+msgstr "Feina"
+
+#: ../res/values/strings.xml:75(
+#: name="other")
+msgid "Other"
+msgstr "Altre"
+
+#: ../res/values/strings.xml:76(
+#: name="select_phone_number")
+msgid "Select a phone number"
+msgstr "Selecciona un número de telèfon"
+
+#: ../res/values/strings.xml:77(
+#: name="call_log")
+msgid "Last Calls"
+msgstr "Darreres Trucades"
+
+#: ../res/values/strings.xml:78(
+#: name="call_log_2")
+msgid ""
+"Last\\n"
+"Calls"
+msgstr ""
+"Darrera\\n"
+"Trucades"
+
+#: ../res/values/strings.xml:79(
+#: name="unknown")
+msgid "Unknown"
+msgstr "Desconegut"
+
+#: ../res/values/strings.xml:80(
+#: name="active_alarms")
+msgid "Active Alarms"
+msgstr "Activa les alarmes"
+
+#: ../res/values/strings.xml:81(
+#: name="add_phone_reminder")
+msgid "Add a telephone call reminder"
+msgstr "Afegeix un recordatori de trucada telefònica"
+
+#: ../res/values/strings.xml:82(
+#: name="phone_reminder")
+msgid "Telephone Call Reminder"
+msgstr "Recordatori de trucades telefòniques"
+
+#: ../res/values/strings.xml:83(
+#: name="telephone_call_settings")
+msgid "Telephone Call Settings"
+msgstr "Configuració de trucades telefòniques"
+
+#: ../res/values/strings.xml:84(
+#: name="summary_add_phone_reminder")
+msgid "After call you can quick set a telephone call reminder (Notification after call)"
+msgstr "Després de trucar pots ràpidament fer un recordatori (Notificació després de la trucada)"
+
+#: ../res/values/strings.xml:85(
+#: name="call_log_entries")
+msgid "Last Calls Entries"
+msgstr "Darreres Trucades Entrants"
+
+#: ../res/values/strings.xml:86(
+#: name="summary_call_log_entries")
+msgid "Number of entries on last calls"
+msgstr "Nombre d'entrades a les darreres trucades"
+
+#: ../res/values/strings.xml:87(
+#: name="error_wrong_value_call_log_entries")
+msgid "ERROR: Only numbers allowed and/or max. of 30!"
+msgstr "ERROR: Només es permet nombre i/o màx. de 30!"
+
+#: ../res/values/strings.xml:88(
+#: name="error_no_entry")
+msgid "ERROR: Field can not be empty!"
+msgstr "ERROR: El camp no pot estar buit!"
+
+#: ../res/values/strings.xml:89(
+#: name="error_already_saved")
+msgid "ERROR: Value already present!"
+msgstr "ERROR: Valor ja present!"
+
+#: ../res/values/strings.xml:90(
+#: name="parking_countdown")
+msgid "Parking Time CountDown"
+msgstr "Compte Enrera del Temps d'aparcament"
+
+#: ../res/values/strings.xml:91(
+#: name="summary_parking_countdown")
+msgid "Display a CountDown in the notification bar"
+msgstr "Mostra un compte enrere a la barra de notificació"
+
+#: ../res/values/strings.xml:92(
+#: name="donate_link")
+msgid "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=KFJDJY28HWFVE&amp;lc=US&amp;item_name=COL%20Reminder&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+msgstr "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=KFJDJY28HWFVE&amp;lc=US&amp;item_name=COL%20Reminder&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+
